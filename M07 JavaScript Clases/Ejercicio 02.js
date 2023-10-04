@@ -19,7 +19,7 @@ class Persona {
          apellido: this.apellido,
          edad: this.edad,
          domicilio: this.domicilio
-        };
+        }
       }    
   }
 
